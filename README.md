@@ -48,3 +48,9 @@ docker export knmap2024 -o knmap2024.tar
 docker import knmap2024.tar neo4j:latest
 ```
 
+## 启动容器
+
+```
+docker start knmap2024
+```
+
